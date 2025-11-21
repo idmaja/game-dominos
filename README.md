@@ -23,7 +23,7 @@ A console-based implementation of the classic Domino game written in C# and .NET
 2. Navigate to the project directory containing the solution file.
 3. Run the application using the dotnet CLI:
 
-```
+```bash
    dotnet run --project DominoGame
 ```
 
